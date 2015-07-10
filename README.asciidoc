@@ -3,7 +3,7 @@ A React-Router style router for clojure.
 
 It exposes an endpoint which can produce different form of results depending the demands of client.
 
-It can produce:
+.It can produce:
 - static HTML pages.
 - partials.
 - REST jsons.
